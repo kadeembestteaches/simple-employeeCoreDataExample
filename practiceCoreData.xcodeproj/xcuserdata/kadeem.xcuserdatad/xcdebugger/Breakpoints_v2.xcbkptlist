@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practiceCoreData/VC/EmployeeDisplayViewController.swift"
+            timestampString = "611790492.158183"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "EmployeeDisplayViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "practiceCoreData.EmployeeDisplayViewController.employeeName.getter : Swift.String"
+                  moduleName = "practiceCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadeem/Desktop/examples/coreData/practiceCoreData/practiceCoreData/VC/EmployeeDisplayViewController.swift"
+                  timestampString = "611772112.927389"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "123">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "practiceCoreData.EmployeeDisplayViewController.employeeName.setter : Swift.String"
+                  moduleName = "practiceCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadeem/Desktop/examples/coreData/practiceCoreData/practiceCoreData/VC/EmployeeDisplayViewController.swift"
+                  timestampString = "611772112.929211"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "practiceCoreData.EmployeeDisplayViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; practiceCoreData.EmployeeDisplayViewController"
+                  moduleName = "practiceCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadeem/Desktop/examples/coreData/practiceCoreData/practiceCoreData/VC/EmployeeDisplayViewController.swift"
+                  timestampString = "611772112.930831"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "170">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "practiceCoreData.EmployeeDisplayViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;practiceCoreData.EmployeeDisplayViewController&gt;"
+                  moduleName = "practiceCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadeem/Desktop/examples/coreData/practiceCoreData/practiceCoreData/VC/EmployeeDisplayViewController.swift"
+                  timestampString = "611772112.9327151"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "141">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
